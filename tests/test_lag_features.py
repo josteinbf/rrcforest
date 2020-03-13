@@ -1,6 +1,6 @@
 import pandas as pd
 
-from rrcforest.forest import LagFeatures
+from rrcforest.lagfeatures import LagFeatures
 
 
 def test_lag_features():
